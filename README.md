@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @codelaska
+- 👋 Hi, I’m @oceanofcode
 - 👀 I’m interested in programming and web dev & designing
 - 🌱 I’m currently learning programming and web
 
